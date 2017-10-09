@@ -26,43 +26,43 @@
             </div>
             <div class="box-body">
               <p>Please click follow button.</p>
-              <a href="http://localhost:8000/services.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/services.php" class="btn btn-app">
                 <i class="fa fa-cogs"></i> Sevices
               </a>
-              <a href="http://localhost:8000/locations.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/locations.php" class="btn btn-app">
                 <i class="fa fa-location-arrow"></i> Locations
               </a>
-              <a href="http://localhost:8000/organizations.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/organizations.php" class="btn btn-app">
                 <i class="fa  fa-bank"></i> Organizations
               </a>
-              <a href="http://localhost:8000/phones.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/phones.php" class="btn btn-app">
                 <i class="fa fa-phone"></i> Phones
               </a>
-              <a href="http://localhost:8000/contacts.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/contacts.php" class="btn btn-app">
                 <i class="fa fa-envelope"></i> Contact
               </a>
-              <a href="http://localhost:8000/address.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/address.php" class="btn btn-app">
                 <i class="fa fa-address-book"></i> Address
               </a>
-              <a href="http://localhost:8000/regular.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/regular.php" class="btn btn-app">
                 <i class="fa fa-calendar"></i> Regular
               </a>
-              <a href="http://localhost:8000/holiday.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/holiday.php" class="btn btn-app">
                 <i class="fa fa-calendar-minus-o"></i> Holiday
               </a>
-              <a href="http://localhost:8000/accessibility.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/accessibility.php" class="btn btn-app">
                 <i class="fa fa-universal-access"></i> Accessibility
               </a>
-              <a href="http://localhost:8000/programs.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/programs.php" class="btn btn-app">
                 <i class="fa fa-product-hunt"></i> Program
               </a>
-              <a href="http://localhost:8000/area.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/area.php" class="btn btn-app">
                 <i class="fa fa-map-marker"></i> Sevice area
               </a>
-              <a href="http://localhost:8000/taxonomy.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/taxonomy.php" class="btn btn-app">
                 <i class="fa fa-sitemap"></i> Taxonomy
               </a>
-              <a href="http://localhost:8000/details.php" class="btn btn-app">
+              <a href="http://services.votedevin.com/details.php" class="btn btn-app">
                 <i class="fa fa-sitemap"></i> Details
               </a>
             </div>

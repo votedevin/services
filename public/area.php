@@ -22,7 +22,7 @@
 		
 					<?php
 						//dbconnet
-						$servername = "http://services.votedevin.com/";
+						$servername = "localhost";
 						$username = "root";
 						$password = "root";
 						$dbname = "airtable2";
